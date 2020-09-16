@@ -1,0 +1,12 @@
+C:\Users\venkat.m\PycharmProjects\cloud\venv\Scripts\python.exe C:/Users/venkat.m/PycharmProjects/jupyter/EEWS.py
+Its fitness value is : 0.3447765593679991
+makespan of Best molecule : 55.26315789473684
+Energy conserved of Best Molecule : 50333.684210526306
+Speedup is : 2.0
+Actual Working Time : [53.94736842105264, 50.526315789473685, 0]
+VM utilization Individually respectively : [0.23809523809523808, 0.28571428571428575, 0.0]
+Average cloud Utilization is : 0.17460317460317462
+LoadBalacing Factor  :  28.41811023625627 %
+SLR : 0.6461538461538463
+
+Process finished with exit code 0
